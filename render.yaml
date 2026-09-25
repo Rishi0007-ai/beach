@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: wedding-invitation-beach
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
